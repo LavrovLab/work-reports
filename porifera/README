@@ -1,0 +1,13 @@
+These were prepared using makespongedb.sh
+
+The following fields are :
+transcriptid, transcript header from transdecoder.pep file which matches it to the original transcript
+proteinid, renamed protein id used for all analysis
+targetp, targetp predictions (M,S,-,*)
+RC, reliability class of targetp prediction (1,2,3,4,5)
+hsap_ortho,mmus_ortho,scer_ortho, renamed proteinids of RBBH hits to the three reference proteomes if any
+mitoprot, Y if present in inferred mitochondrial proteome, N otherwise
+hsap_ortho_geneid, geneid of hsap ortholog detected by RBBH if present
+seqlength, sequence length of protein
+mmus_ortho_geneid, geneid of mmus ortholog detected by RBBH if present
+scer_ortho_geneid, geneid of yeast ortholog detected by RBBH if present
