@@ -1,0 +1,90 @@
+Sequence ID	Probability of presequence	Prediction	Cleavage site (processing enzyme)	Net charge	Positions for TOM20 recognition motif (deliminated by comma)	Position of amphypathic alpha-helix	BHHPPP	BPHBHH	HBHHBb	HBHHbB	HHBHHB	HHBPHB	HHBPHH	HHBPHP	HHHBBH	HHHBPH	HHHHBB	HHPBHH	HPBHHP	PHHBPH
+ccan10281	0.967	Possessing mitochondrial presequence	26(MPP)	0.192	23-27,58-62	4-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan10314	0.949	Possessing mitochondrial presequence	29(MPP)	0.276	26-30,45-49	5-16-high	-	-	-	-	-	-	5-10	-	-	4-9	-	-	-	-	
+ccan10538	0.072	No mitochondrial presequence	36(MPP), 44(Oct1)	0.139		21-30-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan1054	0.885	Possessing mitochondrial presequence	19(MPP)	0.316	4-8,69-73	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan10560	0.981	Possessing mitochondrial presequence	33(MPP), 34(Icp55*)	0.212	11-15,23-27	11-20-high	-	-	-	-	23-28	7-12	-	-	-	6-11	-	-	-	-	
+ccan11410	0.749	Possessing mitochondrial presequence	9(MPP)	0.111	6-10,50-54,87-91,94-98	13-22-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan12342	0.973	Possessing mitochondrial presequence	30(MPP), 31(Icp55*)	0.233	1-5,27-31,44-48,67-71	11-20-high	-	-	2-7	-	1-6	-	-	-	-	-	-	-	-	-	
+ccan12807	0.234	No mitochondrial presequence	23(MPP)	0.261	72-76	17-26-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan13109	0.660	Possessing mitochondrial presequence	78(MPP)	0.038	3-7,7-11,32-36,76-80	3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan13249	0.655	Possessing mitochondrial presequence	35(MPP)	0.171	70-74,89-93	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan13445	0.279	No mitochondrial presequence	29(MPP), 37(Oct1)	0.172	2-6,53-57	13-23-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan13836	0.982	Possessing mitochondrial presequence	12(MPP), 20(Oct1)	0.167	2-6,9-13	4-13-high	-	-	-	-	9-14	-	-	-	-	-	-	1-6	2-7	-	
+ccan13885	0.581	Possessing mitochondrial presequence	43(MPP)	0.209	18-22	4-16-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan14082	0.476	Possessing mitochondrial presequence	25(MPP)	0.160		8-17-high	-	-	-	-	-	-	13-18	-	-	12-17	-	-	-	-	
+ccan14529	0.817	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.136	19-23,30-34,62-66	15-24-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan14604	0.910	Possessing mitochondrial presequence	11(MPP)	0.273	3-7,94-98	1-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan14702	0.332	No mitochondrial presequence	17(MPP)	0.176	67-71,89-93	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan14820	0.740	Possessing mitochondrial presequence	35(MPP)	0.200	11-15	6-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan15081	0.139	No mitochondrial presequence	28(MPP)	0.250		10-19-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan15120	0.709	Possessing mitochondrial presequence	21(MPP)	0.190		7-16-low	-	-	-	-	-	2-7	-	-	-	1-6	-	-	-	-	
+ccan15577	0.968	Possessing mitochondrial presequence	34(MPP)	0.265	15-19,87-91	14-23-high	-	-	-	-	-	-	-	-	13-18	-	12-17	-	-	-	
+ccan15596	0.130	No mitochondrial presequence	41(MPP)	0.171		10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan15799	0.079	No mitochondrial presequence	33(MPP)	0.152	57-61	17-26-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan16666	0.928	Possessing mitochondrial presequence	40(MPP), 41(Icp55*)	0.200	3-7,6-10,9-13,21-25,29-33	20-29-high	-	-	-	-	3-8,6-11,9-14	-	-	-	-	-	-	-	-	-	
+ccan16905	0.990	Possessing mitochondrial presequence	24(MPP)	0.208	1-5,7-11,22-26	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan17425	0.396	Possessing mitochondrial presequence	25(MPP)	0.400	40-44,64-68,94-98	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan17436	0.949	Possessing mitochondrial presequence	29(MPP)	0.241	9-13	19-30-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan1856	0.555	Possessing mitochondrial presequence	22(MPP)	0.318		12-21-high	-	-	-	-	-	-	-	-	2-7	-	-	-	-	-	
+ccan18682	0.141	No mitochondrial presequence	42(MPP)	0.143	22-26,68-72,76-80,80-84	6-15-high	-	-	-	-	-	-	-	-	-	-	-	-	22-27	-	
+ccan19095	0.932	Possessing mitochondrial presequence	38(MPP)	0.211	11-15,26-30,35-39	4-15-high	-	-	-	-	-	-	-	-	24-29	-	23-28	-	-	-	
+ccan19112	0.838	Possessing mitochondrial presequence	24(MPP), 25(Icp55*)	0.167	1-5	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan19541	0.677	Possessing mitochondrial presequence	24(MPP)	0.250		2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan19604	0.988	Possessing mitochondrial presequence	14(MPP)	0.357	7-11,11-15	7-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan19817	0.064	No mitochondrial presequence	47(MPP)	0.149		9-18-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan20527	0.575	Possessing mitochondrial presequence	21(MPP)	0.238	46-50	2-11-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan20688	0.872	Possessing mitochondrial presequence	32(MPP)	0.219	17-21,73-77	15-24-high	-	-	-	-	17-22	-	-	-	-	-	-	-	-	-	
+ccan21167	0.541	Possessing mitochondrial presequence	21(MPP), 29(Oct1)	0.190		11-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan21339	0.136	No mitochondrial presequence	17(MPP)	0.118		7-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan22071	0.225	No mitochondrial presequence	17(MPP), 18(Icp55*)	0.176	4-8,14-18	13-22-high	-	-	-	-	-	-	-	-	-	-	-	3-8	-	-	
+ccan22446	0.025	No mitochondrial presequence	21(MPP)	0.190	19-23	15-24-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan22701	0.987	Possessing mitochondrial presequence	61(MPP), 62(Icp55*)	0.115	55-59,58-62	12-21-high	-	-	-	-	-	-	-	8-13	-	7-12	-	-	-	-	
+ccan23096	0.723	Possessing mitochondrial presequence	20(MPP)	0.200		2-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan23140	0.455	Possessing mitochondrial presequence	30(MPP)	0.133	61-65	5-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan23280	0.129	No mitochondrial presequence	28(MPP), 29(Icp55*)	0.179	25-29	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan23343	0.995	Possessing mitochondrial presequence	38(MPP)	0.263	25-29,36-40,58-62	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	25-30	-	
+ccan23404	0.595	Possessing mitochondrial presequence	70(MPP)	0.114	22-26,67-71	18-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan23906	0.595	Possessing mitochondrial presequence	33(MPP), 34(Icp55*)	0.152	20-24	18-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan24429	0.945	Possessing mitochondrial presequence	20(MPP)	0.200		9-18-low	-	-	-	-	-	-	-	-	2-7	-	1-6	-	-	-	
+ccan24556	0.710	Possessing mitochondrial presequence	11(MPP)	0.273	2-6	2-11-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan251	0.031	No mitochondrial presequence	39(MPP)	0.154	31-35,36-40	1-10-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan26768	0.985	Possessing mitochondrial presequence	23(MPP)	0.174		11-20-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan26900	0.969	Possessing mitochondrial presequence	23(MPP)	0.348	2-6,12-16	2-11-high	-	-	-	-	2-7	-	-	-	10-15	-	-	-	-	-	
+ccan27197	0.989	Possessing mitochondrial presequence	27(MPP)	0.222	16-20	7-16-high	-	-	-	-	-	-	-	-	-	-	-	15-20	-	-	
+ccan27308	0.964	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.227	77-81	8-17-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan28322	0.401	Possessing mitochondrial presequence	29(MPP)	0.172	46-50,89-93	13-22-high	-	-	-	-	-	-	14-19	-	-	-	-	-	-	-	
+ccan28588	0.018	No mitochondrial presequence	59(MPP)	0.102		8-18-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan28933	0.572	Possessing mitochondrial presequence	16(MPP)	0.125	13-17,34-38	15-24-high	-	-	-	-	-	16-21	-	-	-	-	-	-	-	-	
+ccan28936	0.644	Possessing mitochondrial presequence	16(MPP)	0.125	13-17,34-38	15-24-high	-	-	-	-	-	16-21	-	-	-	-	-	-	-	-	
+ccan30049	0.912	Possessing mitochondrial presequence	72(MPP), 73(Icp55*)	0.042	79-83	1-10-high	-	-	-	-	-	-	5-10	-	-	-	-	-	-	4-9	
+ccan30178	0.974	Possessing mitochondrial presequence	16(MPP)	0.250	13-17,78-82	8-17-high	-	-	-	14-19	-	-	-	-	-	-	-	-	-	-	
+ccan30590	0.556	Possessing mitochondrial presequence	12(MPP), 13(Icp55*)	0.417	2-6	17-28-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan31820	0.997	Possessing mitochondrial presequence	10(MPP), 18(Oct1)	0.400	7-11,30-34	6-18-high	9-14	-	-	-	-	-	-	-	5-10	-	4-9	-	-	-	
+ccan31908	0.184	No mitochondrial presequence	61(MPP)	0.197		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan32070	0.976	Possessing mitochondrial presequence	37(MPP), 38(Icp55*)	0.162		9-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan32596	0.991	Possessing mitochondrial presequence	14(MPP)	0.286	41-45	7-19-high	-	-	-	-	-	-	14-19	-	-	-	-	-	-	-	
+ccan32658	0.388	Possessing mitochondrial presequence	47(MPP)	0.170		3-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan3266	0.999	Possessing mitochondrial presequence	25(MPP)	0.280	1-5,87-91	10-19-high	-	-	-	-	1-6	-	-	-	-	-	-	-	-	-	
+ccan32804	0.569	Possessing mitochondrial presequence	25(MPP)	0.240	5-9,28-32	8-19-high	-	-	-	-	-	-	-	-	11-16	21-26	-	-	-	-	
+ccan32920	0.678	Possessing mitochondrial presequence	20(MPP), 21(Icp55*)	0.250		17-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan3677	0.085	No mitochondrial presequence	39(MPP)	0.103		3-12-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan4009	0.966	Possessing mitochondrial presequence	27(MPP)	0.185		17-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan4931	0.752	Possessing mitochondrial presequence	41(MPP)	0.244	38-42	19-28-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan4934	0.960	Possessing mitochondrial presequence	21(MPP)	0.190	5-9,49-53	1-10-high	-	-	-	-	5-10	-	-	-	-	-	-	-	-	-	
+ccan4955	0.939	Possessing mitochondrial presequence	30(MPP)	0.133	4-8,21-25,51-55	15-24-high	-	-	-	-	-	-	-	-	-	16-21	-	3-8	4-9	-	
+ccan5016	0.946	Possessing mitochondrial presequence	28(MPP)	0.179	72-76	7-16-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan6391	0.869	Possessing mitochondrial presequence	39(MPP)	0.179		2-13-high	-	-	-	-	-	-	16-21	-	-	15-20	-	-	-	-	
+ccan6415	0.735	Possessing mitochondrial presequence	32(MPP), 33(Icp55*)	0.156	62-66	2-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan6450	0.937	Possessing mitochondrial presequence	28(MPP), 29(Icp55*)	0.179	20-24	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan726	0.598	Possessing mitochondrial presequence	27(MPP)	0.333	19-23,24-28,27-31,30-34	18-27-high	-	-	-	-	-	-	-	-	22-27	-	-	-	-	-	
+ccan7558	0.975	Possessing mitochondrial presequence	27(MPP)	0.148	14-18,17-21,53-57,56-60	20-29-high	-	-	-	-	14-19	-	-	-	-	-	-	-	-	-	
+ccan790	0.993	Possessing mitochondrial presequence	20(MPP)	0.200	30-34	6-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan7950	0.313	No mitochondrial presequence	32(MPP)	0.156	7-11,91-95	16-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan8275	0.420	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.240	19-23,70-74,80-84	15-26-high	-	-	-	-	19-24	-	-	22-27	-	-	-	-	-	-	
+ccan8564	0.515	Possessing mitochondrial presequence	23(MPP)	0.217	20-24	19-28-high	-	-	-	-	-	-	-	-	-	-	-	19-24	-	-	
+ccan8741	0.940	Possessing mitochondrial presequence	27(MPP), 35(Oct1)	0.259	44-48,51-55	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan8956	0.798	Possessing mitochondrial presequence	34(MPP)	0.235	15-19	14-23-high	-	-	-	-	-	-	-	-	13-18	-	12-17	-	-	-	
+ccan9094	0.950	Possessing mitochondrial presequence	35(MPP)	0.229	6-10,13-17,44-48	18-27-high	-	-	-	-	-	-	-	-	11-16	-	10-15	-	-	-	
+ccan9195	0.194	No mitochondrial presequence	35(MPP)	0.171	14-18,32-36	9-18-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ccan9894	0.841	Possessing mitochondrial presequence	22(MPP)	0.182	5-9,11-15	11-22-high	-	-	-	-	11-16	-	-	-	-	-	-	-	-	-	

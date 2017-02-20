@@ -1,0 +1,38 @@
+Sequence ID	Probability of presequence	Prediction	Cleavage site (processing enzyme)	Net charge	Positions for TOM20 recognition motif (deliminated by comma)	Position of amphypathic alpha-helix	BHHPPP	BPHBHH	HBHHBb	HBHHbB	HHBHHB	HHBPHB	HHBPHH	HHBPHP	HHHBBH	HHHBPH	HHHHBB	HHPBHH	HPBHHP	PHHBPH
+ifas1076	0.975	Possessing mitochondrial presequence	32(MPP)	0.188	4-8	4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas11169	0.997	Possessing mitochondrial presequence	18(MPP), 26(Oct1)	0.222	2-6,10-14	2-13-high	-	-	-	-	-	-	-	-	-	-	-	1-6	-	-	
+ifas11249	0.976	Possessing mitochondrial presequence	26(MPP)	0.269	9-13	5-14-high	-	-	-	-	9-14	-	-	-	-	-	-	-	-	-	
+ifas11761	0.646	Possessing mitochondrial presequence	22(MPP)	0.182	11-15	3-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas12032	0.981	Possessing mitochondrial presequence	33(MPP), 34(Icp55*)	0.212	1-5,4-8,21-25	1-10-high	-	-	-	-	1-6	-	-	-	-	-	-	20-25	-	-	
+ifas12563	0.995	Possessing mitochondrial presequence	30(MPP)	0.200	27-31	2-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	4-9	
+ifas12618	0.354	No mitochondrial presequence	18(MPP)	0.111	15-19,23-27	19-28-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas12886	0.955	Possessing mitochondrial presequence	24(MPP), 25(Icp55*)	0.208	2-6,90-94	16-25-high	-	-	-	-	-	-	-	21-26	-	-	-	-	-	20-25	
+ifas13488	0.954	Possessing mitochondrial presequence	23(MPP)	0.217		6-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas13733	0.973	Possessing mitochondrial presequence	27(MPP)	0.259		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas13969	0.995	Possessing mitochondrial presequence	29(MPP), 37(Oct1)	0.172	47-51,77-81	5-14-high	-	-	-	-	-	-	-	-	-	14-19	-	-	-	-	
+ifas14047	0.965	Possessing mitochondrial presequence	49(MPP), 50(Icp55*)	0.163	8-12,46-50,83-87	17-26-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas15000	0.839	Possessing mitochondrial presequence	26(MPP), 27(Icp55*)	0.154	16-20,24-28,34-38,65-69	1-10-high	-	-	-	-	-	-	-	2-7	-	-	-	15-20	-	1-6	
+ifas15145	0.994	Possessing mitochondrial presequence	32(MPP), 33(Icp55*)	0.250	63-67	8-17-high	-	4-9	-	-	-	2-7	-	-	-	-	-	-	-	1-6	
+ifas15728	0.916	Possessing mitochondrial presequence	24(MPP)	0.208		17-26-high	-	6-11	-	-	-	4-9	-	-	-	-	-	-	-	3-8	
+ifas16034	0.742	Possessing mitochondrial presequence	29(MPP)	0.138	26-30,80-84	12-21-low	-	-	-	-	-	-	-	-	-	-	-	25-30	-	-	
+ifas1766	0.962	Possessing mitochondrial presequence	36(MPP), 44(Oct1)	0.194	1-5,74-78	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas2349	0.300	No mitochondrial presequence	13(MPP)	0.154	1-5	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas2495	0.487	Possessing mitochondrial presequence	24(MPP)	0.250		10-19-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas2552	0.808	Possessing mitochondrial presequence	59(MPP)	0.136	56-60,64-68,68-72	18-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas2800	0.953	Possessing mitochondrial presequence	23(MPP)	0.174	1-5	6-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas2943	0.287	No mitochondrial presequence	11(MPP)	0.273	5-9,22-26,28-32	1-10-high	-	-	-	-	-	-	-	-	3-8	-	2-7	-	-	-	
+ifas3210	0.313	No mitochondrial presequence	81(MPP)	0.160	92-96	9-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas3478	0.155	No mitochondrial presequence	21(MPP)	0.238	4-8,21-25	4-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas3653	0.944	Possessing mitochondrial presequence	29(MPP)	0.241		3-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas393	0.664	Possessing mitochondrial presequence	20(MPP), 28(Oct1)	0.150	13-17	10-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas4937	0.896	Possessing mitochondrial presequence	13(MPP), 14(Icp55*)	0.154	4-8	3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas5252	0.645	Possessing mitochondrial presequence	41(MPP)	0.268	8-12,12-16,25-29,60-64,80-84	4-16-high	-	-	-	-	-	4-9	-	-	-	-	-	24-29	-	3-8	
+ifas5397	0.567	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.182	10-14,19-23,40-44,59-63,71-75,77-81,92-96	10-19-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas5705	0.951	Possessing mitochondrial presequence	18(MPP)	0.167		3-12-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas6373	0.661	Possessing mitochondrial presequence	11(MPP)	0.182	34-38	10-19-high	-	-	-	-	-	11-16	-	-	-	-	-	-	-	-	
+ifas6699	0.202	No mitochondrial presequence	18(MPP)	0.222	76-80	2-13-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas713	0.904	Possessing mitochondrial presequence	13(MPP)	0.231	2-6,50-54	1-10-high	-	-	3-8	-	2-7	-	-	-	-	-	-	-	-	-	
+ifas7390	0.979	Possessing mitochondrial presequence	46(MPP), 47(Icp55*)	0.174	29-33	6-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ifas7995	0.981	Possessing mitochondrial presequence	20(MPP), 21(Icp55*)	0.200	12-16	2-11-high	-	-	-	-	-	-	-	17-22	-	16-21	-	-	-	-	
+ifas821	0.303	No mitochondrial presequence	30(MPP)	0.133	91-95	12-21-low	-	-	-	-	-	-	-	-	-	-	2-7	-	-	-	
+ifas8554	0.982	Possessing mitochondrial presequence	20(MPP), 21(Icp55*)	0.150		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	

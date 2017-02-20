@@ -1,0 +1,37 @@
+Sequence ID	Probability of presequence	Prediction	Cleavage site (processing enzyme)	Net charge	Positions for TOM20 recognition motif (deliminated by comma)	Position of amphypathic alpha-helix	BHHPPP	BPHBHH	HBHHBb	HBHHbB	HHBHHB	HHBPHB	HHBPHH	HHBPHP	HHHBBH	HHHBPH	HHHHBB	HHPBHH	HPBHHP	PHHBPH
+xtes1027	0.940	Possessing mitochondrial presequence	17(MPP)	0.235		19-28-low	-	-	-	-	-	-	-	-	-	-	11-16	-	-	-	
+xtes10379	0.733	Possessing mitochondrial presequence	35(MPP)	0.171		9-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes10624	0.923	Possessing mitochondrial presequence	23(MPP)	0.261	20-24	12-24-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes10891	0.447	Possessing mitochondrial presequence	46(MPP)	0.109		13-22-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes1100	0.035	No mitochondrial presequence	31(MPP)	0.129		14-23-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes11868	0.867	Possessing mitochondrial presequence	17(MPP)	0.176	4-8,43-47,56-60	10-19-high	-	-	-	-	-	-	-	10-15	-	-	-	3-8	-	-	
+xtes12224	0.060	No mitochondrial presequence	21(MPP)	0.238	18-22,59-63	15-24-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes13341	0.829	Possessing mitochondrial presequence	8(MPP), 16(Oct1)	0.125		18-27-low	7-12	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes13401	0.998	Possessing mitochondrial presequence	14(MPP)	0.214	2-6	6-15-high	-	-	-	-	-	-	-	-	-	-	-	1-6	-	-	
+xtes13710	0.914	Possessing mitochondrial presequence	27(MPP)	0.185	24-28	20-29-high	-	-	-	-	-	-	-	-	-	-	-	23-28	24-29	-	
+xtes13728	0.999	Possessing mitochondrial presequence	15(MPP), 23(Oct1)	0.267	12-16	11-22-high	14-19	-	-	-	-	-	-	-	10-15	-	9-14	-	-	-	
+xtes14919	0.999	Possessing mitochondrial presequence	30(MPP)	0.200	7-11	2-11-high	-	-	-	-	-	-	-	-	-	-	-	6-11	-	-	
+xtes15228	0.819	Possessing mitochondrial presequence	25(MPP)	0.160		17-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes16141	0.179	No mitochondrial presequence	79(MPP)	0.076	44-48,76-80	1-10-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes16326	0.968	Possessing mitochondrial presequence	46(MPP)	0.130	4-8,64-68,89-93	3-13-high	-	-	-	-	-	-	-	-	2-7	-	1-6	-	-	-	
+xtes16929	0.484	Possessing mitochondrial presequence	11(MPP)	0.273	2-6,20-24,66-70,94-98	14-23-low	-	-	-	-	-	-	-	-	-	-	-	19-24	-	-	
+xtes17121	0.689	Possessing mitochondrial presequence	20(MPP)	0.300		2-11-low	-	-	-	-	-	-	-	-	16-21	-	-	-	-	-	
+xtes17448	0.973	Possessing mitochondrial presequence	52(MPP), 60(Oct1)	0.135		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes17793	0.992	Possessing mitochondrial presequence	10(MPP), 11(Icp55*)	0.200	23-27,67-71,71-75	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes17836	0.989	Possessing mitochondrial presequence	29(MPP)	0.276	87-91	12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes18128	0.941	Possessing mitochondrial presequence	40(MPP), 41(Icp55*)	0.175	37-41	19-28-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes18398	0.669	Possessing mitochondrial presequence	21(MPP), 22(Icp55*)	0.143	3-7	3-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes19089	0.840	Possessing mitochondrial presequence	30(MPP)	0.167	27-31	6-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes19917	0.374	No mitochondrial presequence	80(MPP), 81(Icp55*)	0.013	28-32,52-56,62-66	21-30-low	-	-	-	-	-	-	-	-	-	-	1-6	-	-	-	
+xtes2708	0.998	Possessing mitochondrial presequence	37(MPP), 38(Icp55*)	0.189	89-93	7-16-high	-	-	-	-	-	-	17-22	-	-	-	-	-	-	-	
+xtes33	0.967	Possessing mitochondrial presequence	9(MPP), 10(Icp55*)	0.222	23-27	1-10-high	-	-	-	-	23-28	-	-	-	-	-	-	-	-	-	
+xtes5413	0.987	Possessing mitochondrial presequence	22(MPP)	0.182	19-23,63-67,85-89	12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes5956	0.298	No mitochondrial presequence	46(MPP)	0.087	39-43	17-28-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes7180	0.751	Possessing mitochondrial presequence	85(MPP)	0.071		11-20-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes7834	0.530	Possessing mitochondrial presequence	17(MPP)	0.118	19-23,27-31,44-48,67-71,90-94	6-15-low	-	-	-	-	-	-	-	-	17-22	-	-	-	-	-	
+xtes8100	0.659	Possessing mitochondrial presequence	65(MPP)	0.138	14-18,73-77	14-23-high	-	-	-	-	-	-	-	-	-	-	-	-	14-19	-	
+xtes8275	0.894	Possessing mitochondrial presequence	20(MPP)	0.250		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+xtes8394	0.919	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.160	3-7	18-27-high	-	-	-	-	-	-	-	-	-	-	11-16	-	-	-	
+xtes8645	0.939	Possessing mitochondrial presequence	16(MPP)	0.188	66-70,69-73	1-10-high	-	-	-	-	-	5-10	-	-	-	4-9	-	-	-	-	
+xtes9128	0.866	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.227	5-9,44-48	14-23-low	-	-	6-11	-	5-10	-	19-24	-	-	18-23	-	-	-	-	
+xtes9651	0.997	Possessing mitochondrial presequence	27(MPP)	0.185	81-85,88-92	3-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	

@@ -1,0 +1,81 @@
+Sequence ID	Probability of presequence	Prediction	Cleavage site (processing enzyme)	Net charge	Positions for TOM20 recognition motif (deliminated by comma)	Position of amphypathic alpha-helix	BHHPPP	BPHBHH	HBHHBb	HBHHbB	HHBHHB	HHBPHB	HHBPHH	HHBPHP	HHHBBH	HHHBPH	HHHHBB	HHPBHH	HPBHHP	PHHBPH
+hamb10368	0.862	Possessing mitochondrial presequence	32(MPP)	0.219	77-81	6-15-high	16-21	-	-	-	-	-	-	-	10-15	-	9-14	-	-	-	
+hamb10530	0.997	Possessing mitochondrial presequence	23(MPP)	0.261		3-12-low	22-27	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb106	0.980	Possessing mitochondrial presequence	30(MPP), 38(Oct1)	0.200	11-15,14-18,66-70,93-97	11-20-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb10703	0.992	Possessing mitochondrial presequence	27(MPP)	0.222	6-10,68-72	6-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb10718	0.988	Possessing mitochondrial presequence	70(MPP), 78(Oct1)	0.143	35-39,67-71	12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb10882	0.869	Possessing mitochondrial presequence	44(MPP), 45(Icp55*)	0.159	17-21	18-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb11014	0.991	Possessing mitochondrial presequence	21(MPP)	0.238		20-29-high	-	-	-	-	-	4-9	-	-	-	-	-	-	-	3-8	
+hamb11040	0.976	Possessing mitochondrial presequence	28(MPP), 36(Oct1)	0.250	1-5	7-16-high	-	-	-	-	1-6	-	-	-	-	-	-	-	-	-	
+hamb11101	0.913	Possessing mitochondrial presequence	33(MPP)	0.333	89-93	21-30-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb11566	0.989	Possessing mitochondrial presequence	24(MPP), 25(Icp55*)	0.292	9-13	6-15-high	-	-	-	-	-	-	-	-	-	-	-	8-13	-	-	
+hamb11803	0.934	Possessing mitochondrial presequence	68(MPP)	0.000	5-9,18-22,72-76	13-22-high	-	-	-	-	-	-	-	-	-	-	-	4-9	-	-	
+hamb1197	0.444	Possessing mitochondrial presequence	23(MPP)	0.261		14-23-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb1217	0.940	Possessing mitochondrial presequence	15(MPP)	0.333	12-16,27-31,31-35	6-15-high	-	-	-	-	-	-	-	-	10-15	-	-	-	-	-	
+hamb12340	0.701	Possessing mitochondrial presequence	32(MPP)	0.156	26-30,58-62	21-30-high	18-23	-	-	-	-	-	-	-	-	-	-	25-30	-	-	
+hamb12438	0.306	No mitochondrial presequence	32(MPP), 33(Icp55*)	0.156	40-44	7-18-high	-	-	-	-	-	-	-	-	-	6-11	-	-	-	-	
+hamb12984	0.967	Possessing mitochondrial presequence	53(MPP), 54(Icp55*)	0.170	46-50	19-28-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb12995	0.981	Possessing mitochondrial presequence	29(MPP), 30(Icp55*)	0.276	8-12	8-17-high	-	-	-	-	-	-	-	-	13-18	-	12-17	-	-	-	
+hamb1305	0.449	Possessing mitochondrial presequence	34(MPP)	0.235	25-29,32-36,49-53,85-89	17-29-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb13643	0.903	Possessing mitochondrial presequence	23(MPP)	0.174	91-95,95-99	11-20-high	-	-	-	-	-	-	-	-	9-14	-	-	-	-	-	
+hamb13931	0.089	No mitochondrial presequence	16(MPP)	0.125		1-10-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb14443	0.944	Possessing mitochondrial presequence	17(MPP)	0.176	77-81,89-93	11-20-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb14450	0.942	Possessing mitochondrial presequence	14(MPP), 15(Icp55*)	0.357		12-21-high	-	21-26	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb14500	0.197	No mitochondrial presequence	27(MPP)	0.148	32-36	10-19-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb14780	0.951	Possessing mitochondrial presequence	24(MPP)	0.167	1-5,57-61	14-23-high	-	-	-	-	-	-	-	10-15	-	-	-	-	-	9-14	
+hamb14896	0.981	Possessing mitochondrial presequence	20(MPP)	0.250	1-5	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb14941	0.749	Possessing mitochondrial presequence	26(MPP)	0.231	42-46,70-74,96-100	7-16-high	-	-	-	-	-	-	-	-	1-6	-	-	-	-	-	
+hamb14959	0.832	Possessing mitochondrial presequence	83(MPP)	0.096	17-21	17-26-high	-	-	-	-	-	-	-	-	4-9	-	-	-	-	-	
+hamb15263	0.787	Possessing mitochondrial presequence	42(MPP), 43(Icp55*)	0.119		14-23-high	-	-	13-18	-	-	-	-	-	-	-	-	-	-	-	
+hamb15270	0.970	Possessing mitochondrial presequence	38(MPP)	0.158		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb15664	0.777	Possessing mitochondrial presequence	23(MPP)	0.174	15-19,20-24	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb15709	0.631	Possessing mitochondrial presequence	21(MPP)	0.238	1-5,9-13	1-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb15715	0.770	Possessing mitochondrial presequence	22(MPP)	0.318		2-11-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb16335	0.827	Possessing mitochondrial presequence	26(MPP)	0.192	23-27,75-79	21-30-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb17659	0.946	Possessing mitochondrial presequence	22(MPP)	0.136		7-17-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb18290	0.743	Possessing mitochondrial presequence	18(MPP)	0.222	52-56	11-20-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb18317	0.785	Possessing mitochondrial presequence	17(MPP)	0.235	51-55	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb19365	0.993	Possessing mitochondrial presequence	18(MPP)	0.222		5-14-low	-	-	-	-	-	-	5-10	-	-	4-9	12-17	-	-	-	
+hamb2589	0.998	Possessing mitochondrial presequence	10(MPP)	0.300	7-11,28-32	12-21-low	-	-	-	-	-	-	12-17	-	-	11-16	-	-	-	-	
+hamb2954	0.835	Possessing mitochondrial presequence	23(MPP)	0.304	3-7,15-19,20-24,35-39	3-18-high	-	-	-	-	-	-	-	-	18-23	-	-	-	-	-	
+hamb3208	0.016	No mitochondrial presequence	62(MPP), 63(Icp55*)	0.097		21-30-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb3291	0.828	Possessing mitochondrial presequence	66(MPP)	0.106	78-82	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb3633	0.209	No mitochondrial presequence	38(MPP)	0.158	7-11,10-14,32-36	6-15-high	-	-	-	-	-	-	-	-	5-10	-	4-9	-	-	-	
+hamb4025	0.980	Possessing mitochondrial presequence	29(MPP)	0.172	2-6,6-10,26-30	1-10-high	-	-	-	-	-	-	-	-	-	-	-	5-10	-	-	
+hamb4139	0.997	Possessing mitochondrial presequence	25(MPP)	0.320	51-55	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb4214	0.998	Possessing mitochondrial presequence	24(MPP)	0.208	47-51,72-76	18-28-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb4553	0.995	Possessing mitochondrial presequence	25(MPP), 33(Oct1)	0.240	84-88	2-15-high	24-29	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb4762	0.999	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.250	5-9,9-13	5-14-high	-	-	-	-	-	-	-	-	-	-	-	8-13	-	-	
+hamb4887	0.990	Possessing mitochondrial presequence	41(MPP)	0.098	4-8	3-12-high	12-17	-	-	-	-	-	-	-	-	-	-	3-8	4-9	-	
+hamb5030	0.757	Possessing mitochondrial presequence	43(MPP)	0.140	94-98	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb5103	0.940	Possessing mitochondrial presequence	29(MPP)	0.241	11-15	5-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb5359	0.155	No mitochondrial presequence	12(MPP), 13(Icp55*)	0.167	42-46	11-20-low	-	8-13	-	-	-	-	15-20	-	-	-	-	-	-	14-19	
+hamb6238	0.814	Possessing mitochondrial presequence	31(MPP)	0.161	2-6,28-32,86-90	16-25-low	-	-	-	-	-	-	-	-	-	-	-	-	2-7	-	
+hamb6327	0.817	Possessing mitochondrial presequence	42(MPP)	0.167	39-43	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb6407	0.996	Possessing mitochondrial presequence	38(MPP), 39(Icp55*)	0.184	16-20	3-12-high	-	-	-	-	16-21	-	-	-	-	-	-	-	-	-	
+hamb6543	0.999	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	7-11	1-11-high	23-28	-	-	-	-	-	-	-	-	-	-	6-11	-	-	
+hamb6561	0.532	Possessing mitochondrial presequence	35(MPP), 36(Icp55*)	0.200		20-29-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb6647	0.935	Possessing mitochondrial presequence	21(MPP)	0.286		13-22-high	-	-	-	-	-	-	-	-	17-22	-	16-21	-	-	-	
+hamb7038	0.734	Possessing mitochondrial presequence	30(MPP), 31(Icp55*)	0.133	3-7	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb7125	0.939	Possessing mitochondrial presequence	74(MPP)	0.189	20-24	5-14-low	22-27	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb7147	0.847	Possessing mitochondrial presequence	22(MPP)	0.182	7-11	16-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb7271	0.968	Possessing mitochondrial presequence	35(MPP)	0.143	11-15	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb7684	0.990	Possessing mitochondrial presequence	28(MPP)	0.250	26-30	15-24-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb794	0.974	Possessing mitochondrial presequence	20(MPP), 21(Icp55*)	0.150		12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb7963	0.301	No mitochondrial presequence	35(MPP)	0.200	15-19	5-14-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb8000	0.911	Possessing mitochondrial presequence	28(MPP)	0.179	3-7	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb8155	0.030	No mitochondrial presequence	38(MPP)	0.132	78-82	16-26-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb8307	0.992	Possessing mitochondrial presequence	27(MPP)	0.222	6-10,68-72	6-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb8328	0.988	Possessing mitochondrial presequence	13(MPP)	0.154		15-24-low	12-17	-	-	-	-	-	19-24	-	-	18-23,23-28	-	-	-	-	
+hamb8361	0.775	Possessing mitochondrial presequence	50(MPP)	0.160	2-6	17-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb8524	0.997	Possessing mitochondrial presequence	40(MPP), 41(Icp55*)	0.175	17-21,51-55	4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb8554	0.789	Possessing mitochondrial presequence	32(MPP)	0.156	29-33,61-65	16-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb8676	0.132	No mitochondrial presequence	33(MPP), 41(Oct1)	0.152		18-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb869	0.777	Possessing mitochondrial presequence	20(MPP)	0.300	77-81	14-23-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb8743	0.999	Possessing mitochondrial presequence	22(MPP)	0.182	2-6,56-60,73-77,85-89	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb874	0.842	Possessing mitochondrial presequence	33(MPP), 34(Icp55*)	0.182	4-8,62-66,75-79,90-94	10-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb9233	0.850	Possessing mitochondrial presequence	23(MPP), 31(Oct1)	0.174		1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb9313	0.997	Possessing mitochondrial presequence	25(MPP)	0.160		8-19-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb9326	0.900	Possessing mitochondrial presequence	70(MPP), 71(Icp55*)	0.114		9-18-high	-	-	-	-	-	-	-	9-14	-	8-13	-	-	-	-	
+hamb935	0.061	No mitochondrial presequence	27(MPP)	0.222		9-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+hamb9889	0.697	Possessing mitochondrial presequence	22(MPP)	0.182	15-19	12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	

@@ -1,0 +1,407 @@
+Sequence ID	Probability of presequence	Prediction	Cleavage site (processing enzyme)	Net charge	Positions for TOM20 recognition motif (deliminated by comma)	Position of amphypathic alpha-helix	BHHPPP	BPHBHH	HBHHBb	HBHHbB	HHBHHB	HHBPHB	HHBPHH	HHBPHP	HHHBBH	HHHBPH	HHHHBB	HHPBHH	HPBHHP	PHHBPH
+avas10016	0.585	Possessing mitochondrial presequence	39(MPP)	0.231	5-9	13-22-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas10467	0.931	Possessing mitochondrial presequence	40(MPP), 41(Icp55*)	0.150	16-20,95-99	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas10769	0.982	Possessing mitochondrial presequence	17(MPP), 18(Icp55*)	0.176	14-18	10-19-high	-	-	-	-	-	-	-	-	12-17	-	11-16	-	-	-	
+avas10770	0.988	Possessing mitochondrial presequence	14(MPP), 15(Icp55*)	0.286	11-15	7-16-high	-	-	-	-	-	-	-	-	9-14	-	8-13	-	-	-	
+avas10771	0.990	Possessing mitochondrial presequence	14(MPP), 15(Icp55*)	0.286	11-15	7-16-high	-	-	-	-	-	-	-	-	9-14	-	8-13	-	-	-	
+avas10775	0.977	Possessing mitochondrial presequence	17(MPP), 18(Icp55*)	0.176	14-18	10-19-high	-	-	-	-	-	-	-	-	12-17	-	11-16	-	-	-	
+avas11010	0.996	Possessing mitochondrial presequence	44(MPP), 45(Icp55*)	0.159		1-10-high	-	-	-	-	-	-	1-6	-	11-16	-	10-15	-	-	-	
+avas11013	0.996	Possessing mitochondrial presequence	44(MPP), 45(Icp55*)	0.159		1-10-high	-	-	-	-	-	-	1-6	-	11-16	-	10-15	-	-	-	
+avas11049	0.951	Possessing mitochondrial presequence	21(MPP)	0.190	2-6	2-11-high	-	-	-	-	-	-	5-10	-	-	-	-	-	-	-	
+avas11534	0.886	Possessing mitochondrial presequence	20(MPP), 21(Icp55*)	0.300	18-22,91-95	17-29-high	-	-	-	-	-	-	-	-	-	-	4-9	-	-	-	
+avas11539	0.887	Possessing mitochondrial presequence	20(MPP), 21(Icp55*)	0.300	18-22,91-95	17-29-high	-	-	-	-	-	-	-	-	-	-	4-9	-	-	-	
+avas11542	0.886	Possessing mitochondrial presequence	20(MPP), 21(Icp55*)	0.300	18-22,91-95	17-29-high	-	-	-	-	-	-	-	-	-	-	4-9	-	-	-	
+avas11547	0.887	Possessing mitochondrial presequence	20(MPP), 21(Icp55*)	0.300	18-22,91-95	17-29-high	-	-	-	-	-	-	-	-	-	-	4-9	-	-	-	
+avas11804	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11814	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11820	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11824	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11826	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11828	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11840	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11845	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11847	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11848	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11855	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11861	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11864	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11871	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas11878	1.000	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.192	15-19	4-15-low	25-30	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+avas12570	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12580	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12581	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12591	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12593	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12596	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12604	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12608	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12611	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12623	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas12631	1.000	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	13-17	2-13-low	23-28	-	-	-	-	-	-	-	-	-	-	12-17	-	-	
+avas13134	0.857	Possessing mitochondrial presequence	27(MPP)	0.222	10-14,18-22	18-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13226	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13243	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13263	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13265	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13276	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13284	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13286	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13289	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13305	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13315	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13321	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13323	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13340	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13364	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13366	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13416	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13428	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13436	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas13495	0.857	Possessing mitochondrial presequence	27(MPP)	0.222	10-14,18-22	18-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas14496	0.996	Possessing mitochondrial presequence	44(MPP), 45(Icp55*)	0.159		1-10-high	-	-	-	-	-	-	1-6	-	11-16	-	10-15	-	-	-	
+avas14501	0.996	Possessing mitochondrial presequence	44(MPP), 45(Icp55*)	0.159		1-10-high	-	-	-	-	-	-	1-6	-	11-16	-	10-15	-	-	-	
+avas14506	0.996	Possessing mitochondrial presequence	44(MPP), 45(Icp55*)	0.159		1-10-high	-	-	-	-	-	-	1-6	-	11-16	-	10-15	-	-	-	
+avas14512	0.996	Possessing mitochondrial presequence	44(MPP), 45(Icp55*)	0.159		1-10-high	-	-	-	-	-	-	1-6	-	11-16	-	10-15	-	-	-	
+avas14987	0.986	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.174	53-57,82-86	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas14988	0.982	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.174	82-86	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas15041	0.097	No mitochondrial presequence	59(MPP)	0.186		19-29-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16085	0.097	No mitochondrial presequence	59(MPP)	0.186		19-29-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16086	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16094	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16104	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16115	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16121	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16126	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16141	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16152	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16157	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16161	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16171	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16177	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16184	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16201	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16216	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16226	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16256	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16281	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16290	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas16294	0.728	Possessing mitochondrial presequence	21(MPP)	0.190	9-13,84-88	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas1656	0.570	Possessing mitochondrial presequence	21(MPP), 22(Icp55*)	0.190		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas17007	0.988	Possessing mitochondrial presequence	27(MPP)	0.259	18-22	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas17008	0.982	Possessing mitochondrial presequence	27(MPP)	0.222	18-22	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas18388	0.588	Possessing mitochondrial presequence	34(MPP), 42(Oct1)	0.147	93-97	14-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas18443	0.985	Possessing mitochondrial presequence	22(MPP)	0.182	4-8,71-75,96-100	1-10-high	6-11	-	-	-	-	-	-	-	-	-	-	-	4-9	-	
+avas19434	0.588	Possessing mitochondrial presequence	34(MPP), 42(Oct1)	0.147	93-97	14-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas19453	0.985	Possessing mitochondrial presequence	22(MPP)	0.182	4-8,71-75,96-100	1-10-high	6-11	-	-	-	-	-	-	-	-	-	-	-	4-9	-	
+avas19454	0.982	Possessing mitochondrial presequence	22(MPP)	0.182	4-8,71-75	1-10-high	6-11	-	-	-	-	-	-	-	-	-	-	-	4-9	-	
+avas19455	0.983	Possessing mitochondrial presequence	22(MPP)	0.182	4-8,71-75	1-10-high	6-11	-	-	-	-	-	-	-	-	-	-	-	4-9	-	
+avas19457	0.983	Possessing mitochondrial presequence	22(MPP)	0.182	4-8,71-75	1-10-high	6-11	-	-	-	-	-	-	-	-	-	-	-	4-9	-	
+avas19459	0.982	Possessing mitochondrial presequence	22(MPP)	0.182	4-8,71-75	1-10-high	6-11	-	-	-	-	-	-	-	-	-	-	-	4-9	-	
+avas2037	0.972	Possessing mitochondrial presequence	32(MPP), 33(Icp55*)	0.156	9-13,20-24	2-13-high	22-27	-	-	-	-	-	5-10	-	-	-	-	19-24	20-25	4-9	
+avas21137	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21145	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21162	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21189	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21198	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21218	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21224	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21229	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21239	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21249	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21261	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21277	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21303	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21312	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21316	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21326	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21350	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21367	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21371	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21388	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21395	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21402	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21409	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21417	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21425	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21447	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21481	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21490	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21508	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21510	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21543	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21546	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21566	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21569	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21582	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21607	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21626	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21641	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21679	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21699	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21707	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21720	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21734	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas21748	0.962	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22230	0.540	Possessing mitochondrial presequence	63(MPP)	0.111	6-10,33-37,36-40,39-43,93-97	6-17-low	-	-	-	-	-	-	-	-	-	-	-	5-10	-	-	
+avas22886	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22893	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22901	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22904	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22916	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22921	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22928	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22932	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22938	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22953	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22954	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22963	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22971	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22974	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22982	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22984	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas22998	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23005	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23009	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23012	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23018	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23028	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23037	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23048	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23052	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23059	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23067	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23072	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23083	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23093	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23097	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23103	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23107	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23116	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23122	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23125	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23144	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23149	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23155	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23164	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23167	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23174	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23182	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23189	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23200	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23211	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23215	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23223	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23229	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23235	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23244	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23248	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23254	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23261	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23270	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23279	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23287	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23297	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23298	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23308	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23316	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23323	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23327	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23336	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23344	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23352	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23354	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23364	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23368	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23385	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23390	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23405	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23413	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23420	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23428	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23436	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23448	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23454	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23461	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23472	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23478	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23484	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23489	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23497	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23503	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23519	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23522	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23527	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23534	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23547	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23556	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23561	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23565	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23569	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23578	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23587	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23592	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23601	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23608	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23617	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23620	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23623	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23633	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23643	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23653	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23660	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23666	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23669	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23677	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23687	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23691	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23698	0.963	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23705	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23707	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23715	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23721	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23728	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23735	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23746	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23755	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas23761	0.959	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.158	1-5,63-67	1-10-high	-	15-20	-	-	-	-	-	-	-	-	-	-	-	-	
+avas24055	0.913	Possessing mitochondrial presequence	28(MPP)	0.143	3-7,51-55	3-12-high	-	-	-	-	-	-	-	-	-	-	-	2-7	3-8	-	
+avas24058	0.909	Possessing mitochondrial presequence	28(MPP)	0.143	3-7,51-55	3-12-high	-	-	-	-	-	-	-	-	-	-	-	2-7	3-8	-	
+avas24059	0.920	Possessing mitochondrial presequence	28(MPP)	0.143	3-7,51-55	3-12-high	-	-	-	-	-	-	-	-	-	-	-	2-7	3-8	-	
+avas24065	0.920	Possessing mitochondrial presequence	28(MPP)	0.143	3-7,51-55	3-12-high	-	-	-	-	-	-	-	-	-	-	-	2-7	3-8	-	
+avas2509	0.998	Possessing mitochondrial presequence	25(MPP)	0.240	13-17,86-90	9-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas25355	0.977	Possessing mitochondrial presequence	32(MPP)	0.156	9-13,87-91	5-14-high	-	-	-	-	9-14	-	5-10	-	-	4-9	-	-	-	-	
+avas25364	0.977	Possessing mitochondrial presequence	32(MPP)	0.156	9-13,87-91	5-14-high	-	-	-	-	9-14	-	5-10	-	-	4-9	-	-	-	-	
+avas26009	0.920	Possessing mitochondrial presequence	28(MPP)	0.143	3-7,51-55	3-12-high	-	-	-	-	-	-	-	-	-	-	-	2-7	3-8	-	
+avas2601	0.998	Possessing mitochondrial presequence	10(MPP), 11(Icp55*)	0.200	3-7,7-11,47-51,52-56,89-93	3-12-high	9-14	-	-	-	-	-	-	-	-	-	-	2-7,6-11	3-8,7-12	-	
+avas26028	0.909	Possessing mitochondrial presequence	28(MPP)	0.143	3-7,51-55	3-12-high	-	-	-	-	-	-	-	-	-	-	-	2-7	3-8	-	
+avas2602	0.998	Possessing mitochondrial presequence	10(MPP), 11(Icp55*)	0.200	3-7,7-11,47-51,52-56,89-93	3-12-high	9-14	-	-	-	-	-	-	-	-	-	-	2-7,6-11	3-8,7-12	-	
+avas26030	0.920	Possessing mitochondrial presequence	28(MPP)	0.143	3-7,51-55	3-12-high	-	-	-	-	-	-	-	-	-	-	-	2-7	3-8	-	
+avas2603	0.998	Possessing mitochondrial presequence	10(MPP), 11(Icp55*)	0.200	3-7,7-11,47-51,52-56,89-93	3-12-high	9-14	-	-	-	-	-	-	-	-	-	-	2-7,6-11	3-8,7-12	-	
+avas2604	0.998	Possessing mitochondrial presequence	10(MPP), 11(Icp55*)	0.200	3-7,7-11,47-51,52-56,89-93	3-12-high	9-14	-	-	-	-	-	-	-	-	-	-	2-7,6-11	3-8,7-12	-	
+avas2645	0.500	Possessing mitochondrial presequence	18(MPP)	0.167		21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas2721	0.917	Possessing mitochondrial presequence	37(MPP)	0.189	17-21,34-38,53-57	13-23-high	19-24	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas2795	0.842	Possessing mitochondrial presequence	17(MPP), 18(Icp55*)	0.235		11-20-high	-	-	-	-	-	-	-	-	13-18	-	1-6	-	-	-	
+avas2827	0.967	Possessing mitochondrial presequence	24(MPP)	0.208	10-14	3-14-high	-	-	-	-	-	-	-	14-19	-	13-18	-	9-14	-	-	
+avas2898	0.982	Possessing mitochondrial presequence	20(MPP), 28(Oct1)	0.200	14-18	10-19-high	-	-	15-20	-	14-19	-	-	-	-	-	-	-	-	-	
+avas30437	0.508	Possessing mitochondrial presequence	26(MPP)	0.192		3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas30684	0.445	Possessing mitochondrial presequence	27(MPP)	0.185		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas30686	0.461	Possessing mitochondrial presequence	27(MPP)	0.185		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas30688	0.440	Possessing mitochondrial presequence	27(MPP)	0.185		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas30690	0.478	Possessing mitochondrial presequence	27(MPP)	0.185		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas30694	0.445	Possessing mitochondrial presequence	27(MPP)	0.185		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas3099	0.987	Possessing mitochondrial presequence	36(MPP), 44(Oct1)	0.167	7-11	4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas31024	0.822	Possessing mitochondrial presequence	14(MPP)	0.214		9-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas31029	0.822	Possessing mitochondrial presequence	14(MPP)	0.214		9-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas31103	0.963	Possessing mitochondrial presequence	30(MPP)	0.167	2-6,88-92	2-11-high	-	-	-	-	-	-	-	-	-	-	-	1-6	2-7	-	
+avas31322	0.977	Possessing mitochondrial presequence	32(MPP)	0.156	9-13,87-91	5-14-high	-	-	-	-	9-14	-	5-10	-	-	4-9	-	-	-	-	
+avas31431	0.959	Possessing mitochondrial presequence	26(MPP)	0.231	17-21,64-68	15-24-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas31460	0.959	Possessing mitochondrial presequence	26(MPP)	0.231	17-21,64-68	15-24-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas31860	0.818	Possessing mitochondrial presequence	35(MPP)	0.143		10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas3191	0.762	Possessing mitochondrial presequence	33(MPP), 34(Icp55*)	0.152	58-62	9-18-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas31937	0.998	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.160	5-9	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas31980	0.413	Possessing mitochondrial presequence	13(MPP)	0.308	47-51	6-15-high	-	-	-	-	-	7-12	-	-	-	-	-	-	-	-	
+avas32035	0.413	Possessing mitochondrial presequence	13(MPP)	0.308	47-51	6-15-high	-	-	-	-	-	7-12	-	-	-	-	-	-	-	-	
+avas32057	0.818	Possessing mitochondrial presequence	35(MPP)	0.143		10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas32423	0.585	Possessing mitochondrial presequence	24(MPP), 25(Icp55*)	0.167	1-5,60-64	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas32490	0.585	Possessing mitochondrial presequence	24(MPP), 25(Icp55*)	0.167	1-5,60-64	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas32624	0.896	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.182	70-74	2-11-high	21-26	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas3288	0.972	Possessing mitochondrial presequence	32(MPP), 33(Icp55*)	0.156	9-13,20-24	2-13-high	22-27	-	-	-	-	-	5-10	-	-	-	-	19-24	20-25	4-9	
+avas32896	0.896	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.182	70-74	2-11-high	21-26	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas33100	0.898	Possessing mitochondrial presequence	38(MPP)	0.158		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas33103	0.898	Possessing mitochondrial presequence	38(MPP)	0.158		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas33386	0.652	Possessing mitochondrial presequence	33(MPP)	0.182	11-15	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas34397	0.939	Possessing mitochondrial presequence	24(MPP)	0.292	67-71	14-23-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas34999	0.596	Possessing mitochondrial presequence	21(MPP)	0.190	2-6	1-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas35456	0.881	Possessing mitochondrial presequence	36(MPP), 37(Icp55*)	0.194	10-14	15-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas3561	0.982	Possessing mitochondrial presequence	20(MPP), 28(Oct1)	0.200	14-18	10-19-high	-	-	15-20	-	14-19	-	-	-	-	-	-	-	-	-	
+avas36184	0.652	Possessing mitochondrial presequence	33(MPP)	0.182	11-15	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas36249	0.999	Possessing mitochondrial presequence	42(MPP)	0.214	39-43	13-23-high	-	-	-	-	-	-	1-6	-	-	-	-	-	-	-	
+avas37239	0.885	Possessing mitochondrial presequence	25(MPP)	0.200	4-8	8-17-high	-	-	-	-	-	-	-	12-17	-	-	-	-	-	-	
+avas37362	0.878	Possessing mitochondrial presequence	24(MPP)	0.250	67-71	14-23-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas3737	0.981	Possessing mitochondrial presequence	18(MPP), 19(Icp55*)	0.167	2-6,82-86	1-10-high	-	-	-	-	-	-	-	5-10	-	-	-	1-6	-	-	
+avas37537	0.999	Possessing mitochondrial presequence	42(MPP)	0.214	39-43	13-23-high	-	-	-	-	-	-	1-6	-	-	-	-	-	-	-	
+avas38735	0.709	Possessing mitochondrial presequence	29(MPP), 30(Icp55*)	0.241	7-11	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	7-12	-	
+avas38736	0.963	Possessing mitochondrial presequence	34(MPP), 35(Icp55*)	0.235	12-16	12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	12-17	-	
+avas3879	0.993	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.261	2-6,20-24,34-38	1-10-high	-	-	-	-	-	11-16	-	-	-	-	-	-	-	10-15	
+avas39275	0.963	Possessing mitochondrial presequence	30(MPP)	0.167	2-6,88-92	2-11-high	-	-	-	-	-	-	-	-	-	-	-	1-6	2-7	-	
+avas3931	0.998	Possessing mitochondrial presequence	10(MPP), 11(Icp55*)	0.200	3-7,7-11,47-51,52-56,89-93	3-12-high	9-14	-	-	-	-	-	-	-	-	-	-	2-7,6-11	3-8,7-12	-	
+avas39335	0.879	Possessing mitochondrial presequence	22(MPP)	0.136		5-14-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas3933	0.998	Possessing mitochondrial presequence	10(MPP), 11(Icp55*)	0.200	3-7,7-11,47-51,52-56,89-93	3-12-high	9-14	-	-	-	-	-	-	-	-	-	-	2-7,6-11	3-8,7-12	-	
+avas3968	0.842	Possessing mitochondrial presequence	17(MPP), 18(Icp55*)	0.235		11-20-high	-	-	-	-	-	-	-	-	13-18	-	1-6	-	-	-	
+avas39704	0.495	Possessing mitochondrial presequence	29(MPP), 30(Icp55*)	0.310	7-11	7-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas39749	0.998	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.160	5-9	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas39824	0.879	Possessing mitochondrial presequence	22(MPP)	0.136		5-14-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas39872	0.702	Possessing mitochondrial presequence	18(MPP)	0.167	23-27,74-78	12-22-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas39914	0.881	Possessing mitochondrial presequence	36(MPP), 37(Icp55*)	0.194	10-14	15-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas39942	0.495	Possessing mitochondrial presequence	29(MPP), 30(Icp55*)	0.310	7-11	7-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas40088	0.980	Possessing mitochondrial presequence	26(MPP)	0.192	13-17,76-80	5-14-high	-	-	-	-	-	-	-	23-28	-	-	-	-	-	-	
+avas40089	0.980	Possessing mitochondrial presequence	26(MPP)	0.192	13-17,76-80	5-14-high	-	-	-	-	-	-	-	23-28	-	-	-	-	-	-	
+avas40268	0.709	Possessing mitochondrial presequence	29(MPP), 30(Icp55*)	0.241	7-11	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	7-12	-	
+avas40269	0.963	Possessing mitochondrial presequence	34(MPP), 35(Icp55*)	0.235	12-16	12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	12-17	-	
+avas4026	0.999	Possessing mitochondrial presequence	23(MPP)	0.261	2-6	1-13-low	-	-	-	-	-	-	-	-	-	-	-	1-6	-	-	
+avas4062	0.963	Possessing mitochondrial presequence	35(MPP), 43(Oct1)	0.143	4-8	14-23-low	-	-	-	-	4-9	-	-	-	-	-	-	-	-	-	
+avas41006	0.977	Possessing mitochondrial presequence	18(MPP)	0.222	8-12	8-17-high	-	-	-	-	-	-	-	-	-	-	-	7-12	-	-	
+avas41018	0.885	Possessing mitochondrial presequence	25(MPP)	0.200	4-8	8-17-high	-	-	-	-	-	-	-	12-17	-	-	-	-	-	-	
+avas41104	0.595	Possessing mitochondrial presequence	34(MPP)	0.206	3-7,9-13,93-97	1-10-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas4143	0.987	Possessing mitochondrial presequence	36(MPP), 44(Oct1)	0.167	7-11	4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas41657	0.966	Possessing mitochondrial presequence	42(MPP)	0.143	3-7,9-13,87-91	10-19-high	-	-	-	-	-	-	-	-	1-6	-	-	8-13	9-14	-	
+avas41715	0.999	Possessing mitochondrial presequence	23(MPP)	0.261	2-6	1-13-low	-	-	-	-	-	-	-	-	-	-	-	1-6	-	-	
+avas41789	0.977	Possessing mitochondrial presequence	18(MPP)	0.222	8-12	8-17-high	-	-	-	-	-	-	-	-	-	-	-	7-12	-	-	
+avas41958	0.767	Possessing mitochondrial presequence	33(MPP), 34(Icp55*)	0.152	58-62	9-18-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas42232	0.989	Possessing mitochondrial presequence	45(MPP), 46(Icp55*)	0.200	5-9,21-25,68-72	21-30-high	23-28	-	-	-	-	-	-	-	-	-	-	-	5-10	-	
+avas42325	0.998	Possessing mitochondrial presequence	8(MPP), 9(Icp55*)	0.250	93-97	1-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas42342	0.989	Possessing mitochondrial presequence	45(MPP), 46(Icp55*)	0.200	5-9,21-25,68-72	21-30-high	23-28	-	-	-	-	-	-	-	-	-	-	-	5-10	-	
+avas42474	0.998	Possessing mitochondrial presequence	8(MPP), 9(Icp55*)	0.250	93-97	1-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas42475	0.998	Possessing mitochondrial presequence	14(MPP), 15(Icp55*)	0.357		7-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas42548	0.998	Possessing mitochondrial presequence	25(MPP)	0.240	13-17,86-90	9-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas4266	0.939	Possessing mitochondrial presequence	34(MPP), 35(Icp55*)	0.235	9-13,15-19,81-85,85-89	15-26-high	-	-	-	-	-	-	-	-	-	-	-	8-13	-	-	
+avas42874	0.570	Possessing mitochondrial presequence	21(MPP), 22(Icp55*)	0.190		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas4416	0.963	Possessing mitochondrial presequence	35(MPP), 43(Oct1)	0.143	4-8	14-23-low	-	-	-	-	4-9	-	-	-	-	-	-	-	-	-	
+avas4617	0.993	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.261	2-6,20-24,34-38	1-10-high	-	-	-	-	-	11-16	-	-	-	-	-	-	-	10-15	
+avas4619	0.966	Possessing mitochondrial presequence	42(MPP)	0.143	3-7,9-13,87-91	10-19-high	-	-	-	-	-	-	-	-	1-6	-	-	8-13	9-14	-	
+avas4703	0.950	Possessing mitochondrial presequence	25(MPP), 33(Oct1)	0.200		10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas4916	0.917	Possessing mitochondrial presequence	37(MPP)	0.189	17-21,34-38,53-57	13-23-high	19-24	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas5030	0.987	Possessing mitochondrial presequence	21(MPP), 22(Icp55*)	0.190	14-18,18-22	13-22-high	-	-	-	-	-	-	-	-	12-17	-	-	17-22	18-23	-	
+avas5212	0.939	Possessing mitochondrial presequence	34(MPP), 35(Icp55*)	0.235	9-13,15-19,81-85,85-89	15-26-high	-	-	-	-	-	-	-	-	-	-	-	8-13	-	-	
+avas5260	0.500	Possessing mitochondrial presequence	18(MPP)	0.167		21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas5261	0.500	Possessing mitochondrial presequence	18(MPP)	0.167		21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas5280	0.964	Possessing mitochondrial presequence	43(MPP), 44(Icp55*)	0.140	5-9	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas5340	0.507	Possessing mitochondrial presequence	26(MPP), 27(Icp55*)	0.192		3-12-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas5426	0.598	Possessing mitochondrial presequence	34(MPP)	0.147		10-19-high	-	-	-	-	-	-	-	-	14-19	-	-	-	-	-	
+avas5442	0.985	Possessing mitochondrial presequence	26(MPP), 34(Oct1)	0.231		11-20-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas5456	0.951	Possessing mitochondrial presequence	21(MPP)	0.190	2-6	2-11-high	-	-	-	-	-	-	5-10	-	-	-	-	-	-	-	
+avas5485	0.869	Possessing mitochondrial presequence	13(MPP), 14(Icp55*)	0.231	5-9	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas5527	0.960	Possessing mitochondrial presequence	27(MPP)	0.370	7-11,73-77	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas5829	0.867	Possessing mitochondrial presequence	13(MPP), 14(Icp55*)	0.231	5-9	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas5921	0.357	No mitochondrial presequence	30(MPP)	0.100	1-5	1-11-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas6195	0.959	Possessing mitochondrial presequence	27(MPP)	0.370	7-11,73-77	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas632	0.987	Possessing mitochondrial presequence	43(MPP), 44(Icp55*)	0.256	7-11,11-15,31-35	5-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas650	0.980	Possessing mitochondrial presequence	26(MPP)	0.192	13-17,76-80	5-14-high	-	-	-	-	-	-	-	23-28	-	-	-	-	-	-	
+avas6517	0.991	Possessing mitochondrial presequence	14(MPP), 15(Icp55*)	0.286	11-15	7-16-high	-	-	-	-	-	-	-	-	9-14	-	8-13	-	-	-	
+avas651	0.980	Possessing mitochondrial presequence	26(MPP)	0.192	13-17,76-80	5-14-high	-	-	-	-	-	-	-	23-28	-	-	-	-	-	-	
+avas6642	0.981	Possessing mitochondrial presequence	18(MPP), 19(Icp55*)	0.167	2-6,82-86	1-10-high	-	-	-	-	-	-	-	5-10	-	-	-	1-6	-	-	
+avas6643	0.981	Possessing mitochondrial presequence	18(MPP), 19(Icp55*)	0.167	2-6,82-86	1-10-high	-	-	-	-	-	-	-	5-10	-	-	-	1-6	-	-	
+avas6816	0.968	Possessing mitochondrial presequence	15(MPP)	0.200	73-77	5-14-high	-	-	-	-	-	5-10	-	-	-	-	-	-	-	4-9	
+avas6903	0.864	Possessing mitochondrial presequence	14(MPP)	0.286		10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas6987	0.979	Possessing mitochondrial presequence	33(MPP)	0.212		21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas7114	0.980	Possessing mitochondrial presequence	33(MPP)	0.212		21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas7505	0.971	Possessing mitochondrial presequence	37(MPP)	0.243	10-14,57-61	7-18-high	21-26	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas7668	0.971	Possessing mitochondrial presequence	37(MPP)	0.243	10-14,57-61	7-18-high	21-26	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas7669	0.969	Possessing mitochondrial presequence	37(MPP)	0.243	10-14,57-61	7-18-high	21-26	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas8030	0.960	Possessing mitochondrial presequence	48(MPP)	0.167		20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas8079	0.032	No mitochondrial presequence	22(MPP), 23(Icp55*)	0.136		18-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas8081	0.032	No mitochondrial presequence	22(MPP), 23(Icp55*)	0.136		18-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas8171	0.960	Possessing mitochondrial presequence	48(MPP)	0.167		20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas8362	0.585	Possessing mitochondrial presequence	39(MPP)	0.231	5-9	13-22-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas8555	0.580	Possessing mitochondrial presequence	67(MPP)	0.090	80-84	8-20-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas8556	0.581	Possessing mitochondrial presequence	67(MPP)	0.090	80-84	8-20-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas8638	0.994	Possessing mitochondrial presequence	25(MPP), 33(Oct1)	0.160	11-15,67-71	2-15-high	-	-	-	-	-	-	-	-	-	-	-	-	11-16	-	
+avas8672	0.994	Possessing mitochondrial presequence	25(MPP), 33(Oct1)	0.160	11-15,67-71	2-15-high	-	-	-	-	-	-	-	-	-	-	-	-	11-16	-	
+avas8867	0.032	No mitochondrial presequence	22(MPP), 23(Icp55*)	0.136		18-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas8875	0.032	No mitochondrial presequence	22(MPP), 23(Icp55*)	0.136		18-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas9034	0.598	Possessing mitochondrial presequence	34(MPP)	0.147		10-19-high	-	-	-	-	-	-	-	-	14-19	-	-	-	-	-	
+avas9035	0.598	Possessing mitochondrial presequence	34(MPP)	0.147		10-19-high	-	-	-	-	-	-	-	-	14-19	-	-	-	-	-	
+avas9729	0.976	Possessing mitochondrial presequence	25(MPP)	0.200	3-7,6-10,10-14,23-27	19-28-high	-	-	-	7-12	3-8	-	-	-	-	-	-	-	-	-	
+avas9880	0.932	Possessing mitochondrial presequence	40(MPP), 41(Icp55*)	0.150	16-20,95-99	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas9881	0.903	Possessing mitochondrial presequence	22(MPP)	0.318		18-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+avas9882	0.864	Possessing mitochondrial presequence	14(MPP)	0.286		10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	

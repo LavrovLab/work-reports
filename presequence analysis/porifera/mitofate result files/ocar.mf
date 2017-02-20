@@ -1,0 +1,244 @@
+Sequence ID	Probability of presequence	Prediction	Cleavage site (processing enzyme)	Net charge	Positions for TOM20 recognition motif (deliminated by comma)	Position of amphypathic alpha-helix	BHHPPP	BPHBHH	HBHHBb	HBHHbB	HHBHHB	HHBPHB	HHBPHH	HHBPHP	HHHBBH	HHHBPH	HHHHBB	HHPBHH	HPBHHP	PHHBPH
+ocar1028	0.981	Possessing mitochondrial presequence	41(MPP), 42(Icp55*)	0.195	11-15,38-42,74-78	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar10367	0.776	Possessing mitochondrial presequence	21(MPP)	0.190	7-11,13-17	13-22-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar10421	0.865	Possessing mitochondrial presequence	39(MPP)	0.179	37-41,96-100	17-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar1065	0.276	No mitochondrial presequence	24(MPP)	0.292		19-28-high	-	24-29	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar10708	0.635	Possessing mitochondrial presequence	14(MPP)	0.214	11-15,28-32,31-35	18-27-high	-	-	-	-	-	-	-	-	-	-	-	-	11-16	-	
+ocar10875	0.979	Possessing mitochondrial presequence	24(MPP)	0.167	1-5,87-91	2-11-high	-	8-13	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar11117	0.987	Possessing mitochondrial presequence	53(MPP)	0.151	7-11	2-11-high	22-27	-	-	-	-	-	-	-	5-10	-	-	-	-	-	
+ocar11118	0.987	Possessing mitochondrial presequence	53(MPP)	0.151	7-11	2-11-high	22-27	-	-	-	-	-	-	-	5-10	-	-	-	-	-	
+ocar11180	0.857	Possessing mitochondrial presequence	20(MPP)	0.200	51-55,76-80	10-20-high	-	-	-	-	-	14-19	1-6	-	-	-	-	-	-	-	
+ocar11188	0.857	Possessing mitochondrial presequence	20(MPP)	0.200	51-55,76-80	10-20-high	-	-	-	-	-	14-19	1-6	-	-	-	-	-	-	-	
+ocar11190	0.857	Possessing mitochondrial presequence	20(MPP)	0.200	51-55,76-80	10-20-high	-	-	-	-	-	14-19	1-6	-	-	-	-	-	-	-	
+ocar11193	0.857	Possessing mitochondrial presequence	20(MPP)	0.200	51-55,76-80	10-20-high	-	-	-	-	-	14-19	1-6	-	-	-	-	-	-	-	
+ocar1137	0.157	No mitochondrial presequence	30(MPP)	0.133		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar11729	0.910	Possessing mitochondrial presequence	33(MPP)	0.182	30-34	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar11875	0.958	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.348	1-5,20-24,68-72	16-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar11878	0.958	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.348	1-5,20-24,68-72	16-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar11884	0.978	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.348	1-5,20-24,85-89	16-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar11912	0.994	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.320	17-21	14-23-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar11914	0.992	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.320	17-21	14-23-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar1212	0.998	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.174	2-6	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar12152	0.978	Possessing mitochondrial presequence	26(MPP), 27(Icp55*)	0.231	11-15,89-93	12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar1215	0.998	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.174	2-6	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar12394	0.346	No mitochondrial presequence	22(MPP)	0.136	51-55	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar12654	0.229	No mitochondrial presequence	83(MPP)	0.072	1-5	18-27-low	-	-	-	-	-	-	-	-	4-9	-	-	-	-	-	
+ocar1277	0.872	Possessing mitochondrial presequence	19(MPP)	0.158	16-20	14-23-high	-	11-16	-	-	-	9-14	-	-	-	8-13	-	15-20	16-21	-	
+ocar13218	0.331	No mitochondrial presequence	23(MPP)	0.087	20-24	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar13219	0.331	No mitochondrial presequence	23(MPP)	0.087	20-24	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar1356	0.731	Possessing mitochondrial presequence	23(MPP)	0.217		13-22-high	-	-	-	-	-	-	-	-	16-21	-	-	-	-	-	
+ocar1357	0.997	Possessing mitochondrial presequence	14(MPP)	0.286	6-10,11-15,80-84	10-19-high	-	-	-	-	-	-	-	-	9-14	-	-	-	-	-	
+ocar13856	0.476	Possessing mitochondrial presequence	27(MPP)	0.222	71-75	6-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar13861	0.656	Possessing mitochondrial presequence	36(MPP)	0.167	18-22,28-32,33-37	11-23-low	-	-	-	-	-	-	-	-	23-28	-	22-27	-	-	-	
+ocar14164	0.588	Possessing mitochondrial presequence	68(MPP)	0.118		18-29-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar14255	0.691	Possessing mitochondrial presequence	62(MPP), 63(Icp55*)	0.129	6-10,56-60	2-11-high	-	-	-	-	-	-	-	-	4-9	-	-	-	-	-	
+ocar14256	0.685	Possessing mitochondrial presequence	62(MPP), 63(Icp55*)	0.129	6-10,56-60	2-11-high	-	-	-	-	-	-	-	-	4-9	-	-	-	-	-	
+ocar14623	0.993	Possessing mitochondrial presequence	62(MPP)	0.242		10-19-high	-	-	-	-	-	-	12-17	-	-	-	-	-	-	-	
+ocar14626	0.992	Possessing mitochondrial presequence	62(MPP)	0.242		10-19-high	-	-	-	-	-	-	12-17	-	-	-	-	-	-	-	
+ocar14635	0.228	No mitochondrial presequence	35(MPP)	0.200	32-36,56-60	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar15583	0.863	Possessing mitochondrial presequence	50(MPP), 51(Icp55*)	0.140	4-8,10-14,14-18,74-78	12-21-high	-	-	-	-	-	-	-	-	8-13	-	7-12	-	-	-	
+ocar15585	0.861	Possessing mitochondrial presequence	50(MPP), 51(Icp55*)	0.140	4-8,10-14,14-18,74-78	12-21-high	-	-	-	-	-	-	-	-	8-13	-	7-12	-	-	-	
+ocar15591	0.863	Possessing mitochondrial presequence	50(MPP), 51(Icp55*)	0.140	4-8,10-14,14-18,74-78	12-21-high	-	-	-	-	-	-	-	-	8-13	-	7-12	-	-	-	
+ocar1587	1.000	Possessing mitochondrial presequence	17(MPP), 25(Oct1)	0.235	2-6	14-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar16019	0.695	Possessing mitochondrial presequence	27(MPP), 28(Icp55*)	0.148	24-28,80-84,92-96	19-28-high	-	-	-	-	-	-	20-25	-	-	-	-	-	-	-	
+ocar16022	0.711	Possessing mitochondrial presequence	27(MPP), 28(Icp55*)	0.148	24-28,80-84,92-96	19-28-high	-	-	-	-	-	-	20-25	-	-	-	-	-	-	-	
+ocar1608	0.268	No mitochondrial presequence	11(MPP)	0.273	85-89	4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar16324	0.928	Possessing mitochondrial presequence	37(MPP)	0.189	19-23	7-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar16329	0.388	Possessing mitochondrial presequence	24(MPP)	0.167	17-21,63-67	1-10-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar16637	0.999	Possessing mitochondrial presequence	23(MPP)	0.261	1-5	10-19-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar16689	0.841	Possessing mitochondrial presequence	12(MPP)	0.333	34-38	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar16692	0.805	Possessing mitochondrial presequence	12(MPP)	0.333	34-38	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar17166	0.902	Possessing mitochondrial presequence	29(MPP)	0.345	9-13	9-18-high	-	-	-	-	-	-	-	-	7-12	-	-	-	-	-	
+ocar17687	0.042	No mitochondrial presequence	19(MPP)	0.263	3-7,69-73	15-24-low	-	-	-	-	-	-	-	-	1-6	-	-	-	-	-	
+ocar17689	0.042	No mitochondrial presequence	19(MPP)	0.263	3-7,69-73	15-24-low	-	-	-	-	-	-	-	-	1-6	-	-	-	-	-	
+ocar17690	0.038	No mitochondrial presequence	19(MPP)	0.263	3-7,69-73	15-24-low	-	-	-	-	-	-	-	-	1-6	-	-	-	-	-	
+ocar18354	0.990	Possessing mitochondrial presequence	35(MPP)	0.171		3-14-high	-	-	-	-	-	-	-	-	-	2-7	-	-	-	-	
+ocar18435	0.642	Possessing mitochondrial presequence	11(MPP)	0.182	64-68	6-15-high	-	-	-	-	-	-	-	8-13	-	7-12	-	-	-	-	
+ocar18438	0.644	Possessing mitochondrial presequence	11(MPP)	0.182	64-68	6-15-high	-	-	-	-	-	-	-	8-13	-	7-12	-	-	-	-	
+ocar18439	0.642	Possessing mitochondrial presequence	11(MPP)	0.182	64-68	6-15-high	-	-	-	-	-	-	-	8-13	-	7-12	-	-	-	-	
+ocar1853	0.934	Possessing mitochondrial presequence	35(MPP)	0.200	9-13	7-16-high	-	-	-	-	9-14	-	-	12-17	-	-	-	-	-	-	
+ocar18800	0.199	No mitochondrial presequence	55(MPP), 56(Icp55*)	0.109		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar18802	0.202	No mitochondrial presequence	55(MPP), 56(Icp55*)	0.109		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar1884	0.985	Possessing mitochondrial presequence	27(MPP), 35(Oct1)	0.185	81-85	21-30-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar1903	0.960	Possessing mitochondrial presequence	34(MPP), 35(Icp55*)	0.206	11-15,26-30	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar19052	0.592	Possessing mitochondrial presequence	13(MPP)	0.308	10-14,82-86	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar1923	0.515	Possessing mitochondrial presequence	45(MPP), 46(Icp55*)	0.067		7-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar1924	0.488	Possessing mitochondrial presequence	45(MPP), 46(Icp55*)	0.067		7-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar1925	0.476	Possessing mitochondrial presequence	27(MPP)	0.222	71-75	6-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar19280	0.999	Possessing mitochondrial presequence	24(MPP)	0.208	21-25	14-23-high	-	-	-	-	-	-	-	-	1-6	-	-	-	-	-	
+ocar19283	0.999	Possessing mitochondrial presequence	24(MPP)	0.208	21-25	14-23-high	-	-	-	-	-	-	-	-	1-6	-	-	-	-	-	
+ocar1935	0.744	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.227	71-75	16-25-high	-	-	-	-	-	-	-	-	7-12	-	-	-	-	-	
+ocar1958	0.335	No mitochondrial presequence	26(MPP)	0.231		17-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar19930	0.988	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.200	3-7,65-69	18-27-low	-	-	-	-	-	-	-	-	11-16	-	-	-	-	-	
+ocar20402	0.973	Possessing mitochondrial presequence	30(MPP), 31(Icp55*)	0.200	27-31	6-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar20405	0.969	Possessing mitochondrial presequence	30(MPP), 31(Icp55*)	0.200	27-31	6-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar20409	0.973	Possessing mitochondrial presequence	30(MPP), 31(Icp55*)	0.200	27-31	6-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar20490	0.091	No mitochondrial presequence	22(MPP)	0.136	1-5,60-64	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	1-6	-	
+ocar2059	0.604	Possessing mitochondrial presequence	36(MPP)	0.139		21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar21086	0.715	Possessing mitochondrial presequence	24(MPP), 32(Oct1)	0.208	4-8,9-13,33-37	14-23-high	23-28	-	-	-	-	-	-	-	-	-	-	3-8,8-13	-	-	
+ocar21283	0.877	Possessing mitochondrial presequence	78(MPP)	0.141		11-20-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar21685	0.752	Possessing mitochondrial presequence	26(MPP)	0.231	29-33	13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar2176	0.985	Possessing mitochondrial presequence	23(MPP)	0.130	2-6	2-13-high	-	-	-	-	-	-	-	-	-	-	-	1-6	2-7	-	
+ocar21794	0.004	No mitochondrial presequence	18(MPP)	0.111		15-26-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar2226	0.998	Possessing mitochondrial presequence	26(MPP)	0.269		17-26-high	-	-	-	-	-	-	-	18-23	-	-	-	-	-	-	
+ocar22388	0.852	Possessing mitochondrial presequence	37(MPP)	0.189	1-5,19-23	19-28-high	-	9-14	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar22585	0.553	Possessing mitochondrial presequence	21(MPP)	0.190		18-27-high	-	-	-	-	-	-	-	-	17-22	-	16-21	-	-	-	
+ocar22778	0.991	Possessing mitochondrial presequence	9(MPP), 10(Icp55*)	0.333	82-86	16-25-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar23064	0.998	Possessing mitochondrial presequence	35(MPP)	0.257	5-9,13-17,47-51	9-18-high	-	-	-	-	-	-	-	-	3-8	-	-	-	-	-	
+ocar23066	0.998	Possessing mitochondrial presequence	35(MPP)	0.257	5-9,13-17,47-51	9-18-high	-	-	-	-	-	-	-	-	3-8	-	-	-	-	-	
+ocar23134	0.932	Possessing mitochondrial presequence	47(MPP), 48(Icp55*)	0.298		14-23-low	-	-	-	-	-	-	-	-	17-22	-	-	-	-	-	
+ocar23135	0.929	Possessing mitochondrial presequence	47(MPP), 48(Icp55*)	0.298		14-23-low	-	-	-	-	-	-	-	-	17-22	-	-	-	-	-	
+ocar23228	0.899	Possessing mitochondrial presequence	23(MPP)	0.304	92-96	13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar2327	0.872	Possessing mitochondrial presequence	20(MPP)	0.300	1-5	13-22-high	-	-	-	-	1-6	-	-	12-17	-	11-16	-	-	-	-	
+ocar23601	0.664	Possessing mitochondrial presequence	23(MPP)	0.217	5-9	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar23602	0.664	Possessing mitochondrial presequence	23(MPP)	0.217	5-9	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar23604	0.711	Possessing mitochondrial presequence	23(MPP)	0.217	5-9	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar2366	0.984	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.227	10-14,48-52,83-87	6-15-high	-	-	-	-	10-15	-	-	-	-	-	-	-	-	-	
+ocar2368	0.988	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.227	10-14,48-52,83-87	6-15-high	-	-	-	-	10-15	-	-	-	-	-	-	-	-	-	
+ocar23819	0.947	Possessing mitochondrial presequence	40(MPP), 41(Icp55*)	0.150	30-34	21-30-high	-	-	-	-	-	-	-	-	9-14	-	-	-	-	-	
+ocar23820	0.947	Possessing mitochondrial presequence	40(MPP), 41(Icp55*)	0.150	30-34	21-30-high	-	-	-	-	-	-	-	-	9-14	-	-	-	-	-	
+ocar23821	0.947	Possessing mitochondrial presequence	40(MPP), 41(Icp55*)	0.150	30-34	21-30-high	-	-	-	-	-	-	-	-	9-14	-	-	-	-	-	
+ocar23913	0.766	Possessing mitochondrial presequence	27(MPP)	0.333		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar23915	0.868	Possessing mitochondrial presequence	27(MPP)	0.333		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar23916	0.903	Possessing mitochondrial presequence	27(MPP)	0.333		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar23917	0.896	Possessing mitochondrial presequence	27(MPP)	0.333		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar23918	0.737	Possessing mitochondrial presequence	27(MPP)	0.333		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar24071	0.940	Possessing mitochondrial presequence	71(MPP), 72(Icp55*)	0.070	73-77	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar24525	0.059	No mitochondrial presequence	23(MPP)	0.217	42-46	16-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar24530	0.060	No mitochondrial presequence	23(MPP)	0.217	42-46	16-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar24650	0.369	No mitochondrial presequence	26(MPP)	0.154	74-78	19-28-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar24653	0.385	Possessing mitochondrial presequence	26(MPP)	0.154	74-78	19-28-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar24658	0.369	No mitochondrial presequence	26(MPP)	0.154	74-78	19-28-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar24730	0.291	No mitochondrial presequence	28(MPP)	0.321		12-21-high	-	-	20-25	-	-	-	-	-	-	-	-	-	-	-	
+ocar24746	0.962	Possessing mitochondrial presequence	41(MPP)	0.171	5-9	1-10-high	-	-	-	-	-	-	-	-	3-8	-	2-7	-	-	-	
+ocar25127	0.687	Possessing mitochondrial presequence	44(MPP)	0.205	12-16,18-22,70-74	5-14-high	-	-	-	-	12-17	-	-	-	-	-	-	-	-	-	
+ocar25473	0.830	Possessing mitochondrial presequence	13(MPP), 14(Icp55*)	0.308	5-9	10-22-high	-	-	-	-	-	-	-	-	9-14	-	8-13	-	-	-	
+ocar26090	0.960	Possessing mitochondrial presequence	16(MPP), 17(Icp55*)	0.188		8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar26292	0.977	Possessing mitochondrial presequence	19(MPP)	0.211	10-14,40-44,43-47	16-25-high	-	5-10	-	-	-	-	19-24	-	-	-	-	9-14	-	-	
+ocar2658	0.421	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.227	19-23,32-36	7-16-high	-	-	-	-	-	-	7-12	-	-	6-11	-	-	-	-	
+ocar26922	1.000	Possessing mitochondrial presequence	17(MPP), 25(Oct1)	0.235	59-63	2-11-high	16-21	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar26931	0.969	Possessing mitochondrial presequence	22(MPP)	0.182	74-78	3-19-high	-	-	-	-	-	-	7-12,14-19	-	-	13-18	-	-	-	-	
+ocar2729	0.990	Possessing mitochondrial presequence	32(MPP)	0.219	1-5,5-9,89-93	1-10-high	20-25	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar27666	0.974	Possessing mitochondrial presequence	29(MPP)	0.276		2-11-high	-	-	-	-	-	23-28	-	-	-	-	-	-	-	-	
+ocar27928	0.860	Possessing mitochondrial presequence	48(MPP), 49(Icp55*)	0.146	15-19	11-20-high	-	-	-	-	-	-	-	-	-	-	-	14-19	-	-	
+ocar28002	0.965	Possessing mitochondrial presequence	26(MPP)	0.269	8-12,19-23,23-27	18-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar28142	0.246	No mitochondrial presequence	20(MPP)	0.250	63-67	9-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar28160	0.997	Possessing mitochondrial presequence	42(MPP), 43(Icp55*)	0.214	11-15,39-43	4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar28205	0.922	Possessing mitochondrial presequence	23(MPP)	0.217	3-7,9-13	8-20-high	-	-	-	-	-	-	-	-	-	-	-	8-13	-	-	
+ocar28270	0.996	Possessing mitochondrial presequence	42(MPP), 43(Icp55*)	0.262	13-17,33-37	18-27-high	-	-	-	-	13-18	-	-	-	-	-	-	-	-	-	
+ocar28310	0.953	Possessing mitochondrial presequence	25(MPP)	0.240	2-6,22-26	16-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar28340	0.989	Possessing mitochondrial presequence	16(MPP)	0.188	9-13,13-17,22-26,79-83,90-94	19-28-high	24-29	-	-	-	-	-	-	-	20-25	-	-	8-13	-	-	
+ocar28342	0.998	Possessing mitochondrial presequence	36(MPP), 37(Icp55*)	0.222	13-17	5-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar28457	0.944	Possessing mitochondrial presequence	17(MPP), 25(Oct1)	0.353	10-14,41-45	20-29-high	-	-	-	-	10-15	-	-	-	-	-	-	-	-	-	
+ocar28464	0.987	Possessing mitochondrial presequence	31(MPP)	0.258	1-5,90-94,94-98	1-16-high	-	-	16-21	-	-	-	-	-	-	-	-	-	-	-	
+ocar28504	0.150	No mitochondrial presequence	35(MPP)	0.229	20-24	15-24-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar28551	1.000	Possessing mitochondrial presequence	29(MPP)	0.207	7-11,39-43	3-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar28634	0.822	Possessing mitochondrial presequence	26(MPP)	0.231	5-9,10-14,30-34,66-70	21-30-high	-	-	11-16	-	10-15	-	23-28	-	-	-	-	-	-	22-27	
+ocar28670	0.949	Possessing mitochondrial presequence	36(MPP)	0.167		1-10-low	-	-	-	-	-	-	24-29	-	-	-	-	-	-	23-28	
+ocar28684	0.859	Possessing mitochondrial presequence	27(MPP), 28(Icp55*)	0.185	81-85	15-24-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar28729	0.989	Possessing mitochondrial presequence	22(MPP), 30(Oct1)	0.227	4-8	1-10-high	21-26	18-23	5-10	-	4-9	-	-	-	-	-	-	-	-	-	
+ocar28750	0.102	No mitochondrial presequence	45(MPP)	0.111	33-37	6-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar28939	0.931	Possessing mitochondrial presequence	27(MPP)	0.148	8-12,31-35	21-30-low	-	-	-	-	-	-	-	-	-	-	-	7-12	-	-	
+ocar29067	0.407	Possessing mitochondrial presequence	31(MPP)	0.161	43-47	2-11-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar29127	0.946	Possessing mitochondrial presequence	48(MPP), 49(Icp55*)	0.167	24-28,82-86	8-17-low	-	-	25-30	-	24-29	-	20-25	-	-	19-24	-	-	-	-	
+ocar29135	0.879	Possessing mitochondrial presequence	22(MPP), 23(Icp55*)	0.182	6-10	1-10-high	-	-	-	-	-	-	-	-	-	-	12-17	-	-	-	
+ocar29155	0.973	Possessing mitochondrial presequence	31(MPP)	0.226	5-9,13-17,16-20,67-71,70-74	16-27-high	-	-	-	-	13-18	-	9-14	-	-	8-13	-	-	-	-	
+ocar29217	0.255	No mitochondrial presequence	77(MPP)	0.169	69-73	12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar29261	0.977	Possessing mitochondrial presequence	30(MPP), 38(Oct1)	0.233	6-10	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar29264	0.995	Possessing mitochondrial presequence	27(MPP)	0.222	4-8,7-11,24-28,39-43	2-11-high	-	-	-	-	4-9	-	19-24	-	-	18-23	-	-	-	-	
+ocar29272	0.772	Possessing mitochondrial presequence	42(MPP)	0.190	6-10,19-23,55-59,65-69	11-22-high	-	-	-	-	-	-	-	-	-	-	-	5-10,18-23	19-24	-	
+ocar29366	0.958	Possessing mitochondrial presequence	22(MPP)	0.318	6-10,9-13	5-14-high	-	-	-	-	6-11	-	-	-	-	-	-	-	-	-	
+ocar29390	0.733	Possessing mitochondrial presequence	17(MPP), 25(Oct1)	0.176	76-80	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar29459	0.997	Possessing mitochondrial presequence	28(MPP), 36(Oct1)	0.286	6-10,74-78	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar29476	0.903	Possessing mitochondrial presequence	31(MPP), 32(Icp55*)	0.194		21-30-low	-	-	-	-	-	25-30	-	-	-	-	4-9	-	-	24-29	
+ocar2949	0.982	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.304		13-24-high	-	-	-	-	-	-	-	-	12-17	-	-	-	-	-	
+ocar29636	0.997	Possessing mitochondrial presequence	34(MPP), 35(Icp55*)	0.176	6-10	3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar29853	0.993	Possessing mitochondrial presequence	35(MPP), 36(Icp55*)	0.200	7-11	6-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar29869	0.967	Possessing mitochondrial presequence	22(MPP), 30(Oct1)	0.182	8-12,27-31,69-73	20-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar30017	0.455	Possessing mitochondrial presequence	21(MPP), 29(Oct1)	0.143		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar30088	0.920	Possessing mitochondrial presequence	31(MPP)	0.194	13-17,28-32,71-75	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar30141	0.994	Possessing mitochondrial presequence	26(MPP)	0.308	5-9	1-10-high	-	-	-	-	5-10	-	-	-	-	-	-	-	-	-	
+ocar30407	0.935	Possessing mitochondrial presequence	25(MPP), 33(Oct1)	0.240	10-14,22-26	10-19-high	-	-	-	-	10-15	-	-	-	-	-	-	-	-	-	
+ocar30456	0.981	Possessing mitochondrial presequence	29(MPP)	0.207	26-30,62-66,84-88	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar30544	0.038	No mitochondrial presequence	38(MPP)	0.316		11-20-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar30606	0.043	No mitochondrial presequence	18(MPP)	0.167		8-17-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar30744	0.901	Possessing mitochondrial presequence	23(MPP)	0.217	13-17	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar3087	0.994	Possessing mitochondrial presequence	28(MPP)	0.214	1-5	13-22-high	-	-	-	-	-	-	14-19	-	-	-	-	-	-	-	
+ocar3092	0.527	Possessing mitochondrial presequence	34(MPP)	0.176	5-9	1-10-high	-	-	-	-	-	-	-	-	-	-	-	4-9	-	-	
+ocar31064	0.901	Possessing mitochondrial presequence	31(MPP)	0.194	2-6,49-53	13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar3124	0.959	Possessing mitochondrial presequence	48(MPP)	0.146	10-14	3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar3125	0.952	Possessing mitochondrial presequence	48(MPP)	0.146	10-14	3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar31494	0.915	Possessing mitochondrial presequence	21(MPP)	0.238	42-46,94-98	19-28-low	-	-	-	-	-	-	5-10	-	-	4-9	-	-	-	-	
+ocar31498	0.977	Possessing mitochondrial presequence	14(MPP)	0.214		4-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar31701	0.941	Possessing mitochondrial presequence	26(MPP)	0.269	23-27,59-63	18-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar31702	0.869	Possessing mitochondrial presequence	54(MPP)	0.148	1-5,51-55	6-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar31827	0.976	Possessing mitochondrial presequence	16(MPP)	0.250	28-32	3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar31871	0.930	Possessing mitochondrial presequence	30(MPP)	0.267	56-60	11-20-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar3260	0.000	No mitochondrial presequence	38(MPP)	0.079	77-81	20-29-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar3294	0.183	No mitochondrial presequence	21(MPP)	0.190	47-51	10-19-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar3352	0.990	Possessing mitochondrial presequence	29(MPP)	0.276		2-11-low	-	-	-	-	-	-	-	-	25-30	-	24-29	-	-	-	
+ocar3621	0.998	Possessing mitochondrial presequence	24(MPP), 25(Icp55*)	0.250	5-9,8-12,45-49	7-16-high	-	-	-	-	5-10	-	-	-	-	-	-	-	-	-	
+ocar386	0.933	Possessing mitochondrial presequence	10(MPP), 11(Icp55*)	0.400		3-12-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar3871	0.906	Possessing mitochondrial presequence	13(MPP)	0.308		18-28-high	-	-	-	-	-	-	-	10-15	-	9-14	-	-	-	-	
+ocar4220	0.289	No mitochondrial presequence	29(MPP)	0.207		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4221	0.298	No mitochondrial presequence	29(MPP)	0.207		13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4223	0.465	Possessing mitochondrial presequence	17(MPP)	0.412		7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4345	0.451	Possessing mitochondrial presequence	32(MPP), 33(Icp55*)	0.188	53-57,83-87	18-27-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4430	0.987	Possessing mitochondrial presequence	22(MPP), 30(Oct1)	0.227	19-23	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4433	0.989	Possessing mitochondrial presequence	22(MPP), 30(Oct1)	0.227	19-23	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4513	0.826	Possessing mitochondrial presequence	19(MPP)	0.263	1-5,10-14,42-46	17-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4515	0.864	Possessing mitochondrial presequence	19(MPP)	0.263	1-5,10-14,42-46	17-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4864	0.931	Possessing mitochondrial presequence	43(MPP)	0.140	1-5,20-24	13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4866	0.931	Possessing mitochondrial presequence	43(MPP)	0.140	1-5,20-24	13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar4930	0.995	Possessing mitochondrial presequence	17(MPP), 18(Icp55*)	0.294	1-5	1-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar5132	0.694	Possessing mitochondrial presequence	31(MPP)	0.129	69-73,74-78,83-87	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar5140	0.982	Possessing mitochondrial presequence	32(MPP), 40(Oct1)	0.188	12-16,71-75	15-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar5145	0.979	Possessing mitochondrial presequence	32(MPP), 40(Oct1)	0.188	12-16,71-75	15-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar5157	0.683	Possessing mitochondrial presequence	36(MPP), 37(Icp55*)	0.139	33-37,75-79	6-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar519	0.843	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.261	42-46	20-30-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar5508	0.897	Possessing mitochondrial presequence	28(MPP), 29(Icp55*)	0.286	21-25,25-29	17-29-high	-	-	-	-	-	-	-	-	-	-	-	24-29	25-30	-	
+ocar559	0.814	Possessing mitochondrial presequence	39(MPP)	0.154	68-72,86-90,90-94,93-97	10-19-high	-	-	-	-	-	-	-	6-11	-	-	-	-	-	5-10	
+ocar574	0.874	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.200	1-5,22-26,76-80	19-28-high	-	-	-	-	-	-	-	-	-	-	-	21-26	22-27	-	
+ocar5932	0.983	Possessing mitochondrial presequence	39(MPP), 47(Oct1)	0.205	79-83	9-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar5936	0.936	Possessing mitochondrial presequence	33(MPP)	0.242	9-13,30-34	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar6282	0.704	Possessing mitochondrial presequence	18(MPP)	0.167	35-39	3-12-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar6384	0.549	Possessing mitochondrial presequence	29(MPP)	0.172	2-6	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar6401	0.878	Possessing mitochondrial presequence	18(MPP)	0.222		12-23-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar6405	0.854	Possessing mitochondrial presequence	18(MPP)	0.222		12-23-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar6619	0.992	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.200	36-40	2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar6701	0.768	Possessing mitochondrial presequence	26(MPP)	0.308	23-27	4-14-high	-	-	-	-	-	-	-	-	-	-	9-14	-	-	-	
+ocar6832	0.130	No mitochondrial presequence	20(MPP)	0.150		3-12-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar6894	0.992	Possessing mitochondrial presequence	29(MPP)	0.172	6-10,51-55,61-65	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar6981	0.641	Possessing mitochondrial presequence	41(MPP)	0.195	18-22,63-67	1-10-high	-	-	-	-	-	5-10	-	-	16-21	-	15-20	-	-	4-9	
+ocar6982	0.641	Possessing mitochondrial presequence	41(MPP)	0.195	18-22,63-67	1-10-high	-	-	-	-	-	5-10	-	-	16-21	-	15-20	-	-	4-9	
+ocar7145	0.985	Possessing mitochondrial presequence	31(MPP)	0.258	2-6,66-70	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar7316	0.641	Possessing mitochondrial presequence	50(MPP)	0.180	8-12,75-79	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar7317	0.757	Possessing mitochondrial presequence	50(MPP)	0.180	8-12,65-69	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar7318	0.648	Possessing mitochondrial presequence	50(MPP)	0.180	8-12,75-79	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar7505	0.992	Possessing mitochondrial presequence	28(MPP), 29(Icp55*)	0.179	2-6,5-9	2-13-high	-	-	-	-	-	-	-	-	-	-	-	1-6	-	-	
+ocar7619	0.877	Possessing mitochondrial presequence	23(MPP)	0.217	13-17	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar7681	0.935	Possessing mitochondrial presequence	39(MPP)	0.128	32-36,68-72	8-17-low	8-13	5-10	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar7683	0.935	Possessing mitochondrial presequence	39(MPP)	0.128	32-36,68-72	8-17-low	8-13	5-10	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar7808	0.799	Possessing mitochondrial presequence	13(MPP)	0.231	38-42	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar7816	0.965	Possessing mitochondrial presequence	19(MPP)	0.158	11-15,16-20,58-62	6-15-low	-	-	-	-	-	-	-	-	-	-	-	15-20	-	-	
+ocar7924	0.783	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.174	31-35,46-50,89-93	2-11-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar8388	0.799	Possessing mitochondrial presequence	54(MPP)	0.074	92-96	2-11-high	-	-	-	-	-	-	-	-	3-8	-	-	-	-	-	
+ocar8392	0.799	Possessing mitochondrial presequence	54(MPP)	0.074	92-96	2-11-high	-	-	-	-	-	-	-	-	3-8	-	-	-	-	-	
+ocar8447	0.981	Possessing mitochondrial presequence	20(MPP)	0.150	17-21,36-40,96-100	6-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar8519	0.355	No mitochondrial presequence	10(MPP)	0.100	60-64	8-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar8524	0.352	No mitochondrial presequence	10(MPP)	0.100	60-64	8-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar8542	0.510	Possessing mitochondrial presequence	35(MPP), 43(Oct1)	0.200		13-22-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar8609	0.916	Possessing mitochondrial presequence	33(MPP), 34(Icp55*)	0.182	27-31,30-34,76-80	9-18-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar8610	0.913	Possessing mitochondrial presequence	33(MPP), 34(Icp55*)	0.182	27-31,30-34,76-80	9-18-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar878	0.785	Possessing mitochondrial presequence	28(MPP), 29(Icp55*)	0.214	3-7	8-20-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar887	0.991	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.217	72-76,93-97	12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar8927	0.972	Possessing mitochondrial presequence	43(MPP), 44(Icp55*)	0.209		12-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar9009	0.983	Possessing mitochondrial presequence	30(MPP)	0.267	2-6	8-17-high	-	-	-	-	-	-	-	-	-	-	-	1-6	-	-	
+ocar9063	0.869	Possessing mitochondrial presequence	25(MPP), 26(Icp55*)	0.240	84-88	17-26-high	-	-	-	16-21	-	-	-	-	-	-	-	-	-	-	
+ocar9210	0.991	Possessing mitochondrial presequence	16(MPP)	0.250	71-75	3-12-low	-	-	-	-	-	-	7-12	-	-	6-11	-	-	-	-	
+ocar9211	0.990	Possessing mitochondrial presequence	16(MPP)	0.250	71-75	3-12-low	-	-	-	-	-	-	7-12	-	-	6-11	-	-	-	-	
+ocar9288	0.986	Possessing mitochondrial presequence	20(MPP), 28(Oct1)	0.200	4-8	3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar9380	0.464	Possessing mitochondrial presequence	28(MPP)	0.179	83-87	3-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar9383	0.464	Possessing mitochondrial presequence	28(MPP)	0.179	83-87	3-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar9388	0.464	Possessing mitochondrial presequence	28(MPP)	0.179	83-87	3-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+ocar9876	0.972	Possessing mitochondrial presequence	25(MPP)	0.200	31-35,75-79	19-28-high	-	-	-	-	-	-	-	-	-	21-26	-	-	-	-	
